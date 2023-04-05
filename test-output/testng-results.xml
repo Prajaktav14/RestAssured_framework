@@ -2,30 +2,30 @@
 <testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-04-05T19:39:16 IST" name="Suite" finished-at="2023-04-05T19:39:23 IST" duration-ms="7708">
+  <suite started-at="2023-04-05T20:45:27 IST" name="Suite" finished-at="2023-04-05T20:45:38 IST" duration-ms="11748">
     <groups>
     </groups>
-    <test started-at="2023-04-05T19:39:16 IST" name="Test" finished-at="2023-04-05T19:39:23 IST" duration-ms="7708">
+    <test started-at="2023-04-05T20:45:27 IST" name="Test" finished-at="2023-04-05T20:45:38 IST" duration-ms="11748">
       <class name="TestClass.Post_TC1">
-        <test-method signature="orchestrator()[pri:0, instance:TestClass.Post_TC1@6f19ac19]" started-at="2023-04-05T19:39:19 IST" name="orchestrator" finished-at="2023-04-05T19:39:21 IST" duration-ms="1796" status="PASS">
+        <test-method signature="orchestrator()[pri:0, instance:TestClass.Post_TC1@6f19ac19]" started-at="2023-04-05T20:45:32 IST" name="orchestrator" finished-at="2023-04-05T20:45:36 IST" duration-ms="4310" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- orchestrator -->
       </class> <!-- TestClass.Post_TC1 -->
       <class name="TestClass.Put_TC1">
-        <test-method signature="orchestrator()[pri:0, instance:TestClass.Put_TC1@119cbf96]" started-at="2023-04-05T19:39:21 IST" name="orchestrator" finished-at="2023-04-05T19:39:22 IST" duration-ms="1042" status="PASS">
+        <test-method signature="orchestrator()[pri:0, instance:TestClass.Put_TC1@119cbf96]" started-at="2023-04-05T20:45:36 IST" name="orchestrator" finished-at="2023-04-05T20:45:37 IST" duration-ms="1079" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- orchestrator -->
       </class> <!-- TestClass.Put_TC1 -->
       <class name="TestClass.Get_TC1">
-        <test-method signature="orchestrator()[pri:0, instance:TestClass.Get_TC1@38ba6ce3]" started-at="2023-04-05T19:39:16 IST" name="orchestrator" finished-at="2023-04-05T19:39:19 IST" duration-ms="3612" status="PASS">
+        <test-method signature="orchestrator()[pri:0, instance:TestClass.Get_TC1@38ba6ce3]" started-at="2023-04-05T20:45:27 IST" name="orchestrator" finished-at="2023-04-05T20:45:31 IST" duration-ms="4833" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- orchestrator -->
       </class> <!-- TestClass.Get_TC1 -->
       <class name="TestClass.Patch_TC1">
-        <test-method signature="orchestrator()[pri:0, instance:TestClass.Patch_TC1@71329995]" started-at="2023-04-05T19:39:22 IST" name="orchestrator" finished-at="2023-04-05T19:39:23 IST" duration-ms="1085" status="PASS">
+        <test-method signature="orchestrator()[pri:0, instance:TestClass.Patch_TC1@71329995]" started-at="2023-04-05T20:45:37 IST" name="orchestrator" finished-at="2023-04-05T20:45:38 IST" duration-ms="1349" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- orchestrator -->
